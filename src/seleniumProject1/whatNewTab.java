@@ -85,7 +85,7 @@ public void women()
 			driver.findElement(By.xpath("//button[@title=\"Add to Cart\"]")).click();
 			
 		}
-/*
+
 	@Test(priority=6)
 	public void cart() throws InterruptedException {
 		
@@ -95,7 +95,7 @@ public void women()
 	public void proceedCheckOut()
 	{
 		driver.findElement(By.linkText("View and Edit Cart")).click();
-	}*/
+	}
 	
 	
 }
